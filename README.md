@@ -8,19 +8,18 @@
 - [To Do](#to-do)
 
 ## Description ##
-Library that contains cipher algorithms for any language.
+Library that contains cipher algorithms for any human-language.
 
-You only need to specify language see Usage(#usage) section
+You only need to specify language, see Usage(#usage) section
 
 For now:
 - only viginere algorithm implemented
-- only EN, RU implemented
+- only EN, RU embedded
 - You could add any language support with one line, but need tests, see [Usage](#usage)
 
 ## Install ##
-**To install the Library just clone it, it needs no additional dependencies**
+**To install the Library just clone it, it needs no external library dependencies**
 
-- if poetry:
 ```
 git clone https://github.com/sunCelery/cipher.git
 ```
