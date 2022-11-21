@@ -18,11 +18,11 @@ class Alphabet:
         cls.alphabets[language] = alphabet_string
 
 
-def encode(cipher_algorithm, *args):
+def encrypt(cipher_algorithm, *args):
     return cipher_algorithm(*args, encrypt=True)
 
 
-def decode(cipher_algorithm, *args):
+def decrypt(cipher_algorithm, *args):
     return cipher_algorithm(*args, encrypt=False)
 
 
