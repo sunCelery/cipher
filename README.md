@@ -10,8 +10,6 @@
 ## Description ##
 Library that contains cipher algorithms for any human-language.
 
-You only need to specify language, see Usage(#usage) section
-
 For now:
 - only viginere algorithm implemented
 - only EN, RU embedded
