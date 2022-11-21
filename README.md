@@ -7,7 +7,7 @@
 - [Usage](#usage)
 - [To Do](#to-do)
 
-## Description ## \
+## Description ##
 Library that contains cipher algorithms for any language.
 
 You only need to specify language see Usage(#usage) section
@@ -15,7 +15,7 @@ You only need to specify language see Usage(#usage) section
 For now:
 - only viginere algorithm implemented
 - only EN, RU implemented
-- You could add any language support with one line, but need tests, see [Usage](#adding-Turkish-language)
+- You could add any language support with one line, but need tests, see [Usage](#adding-turkish-language)
 
 ## Install ##
 **To install the Library just clone it, it needs no additional dependencies**
